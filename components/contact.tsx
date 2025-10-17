@@ -70,7 +70,7 @@ export default function Contact() {
                 <div>
                   <p className="text-sm text-muted-foreground">Phone</p>
                   <a href="tel:+2130658545042" className="text-foreground hover:text-primary transition-colors">
-                    +213 0658545042
+                    +974 33015893
                   </a>
                 </div>
               </div>
@@ -80,7 +80,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Location</p>
-                  <p className="text-foreground">Doha, Qatar</p>
+                  <p className="text-foreground">Mushaireb, Doha, Qatar</p>
                 </div>
               </div>
             </div>

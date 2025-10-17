@@ -30,7 +30,7 @@ export default function Hero() {
                 <a href="#contact">Get in Touch</a>
               </Button>
               <Button asChild variant="outline" size="lg">
-                <a href="/SOLTANI.ADLANE_resume - Copy (2).pdf" download="/SOLTANI.ADLANE_resume - Copy (2).pdf">
+                <a href="/SOLTANI.ADLANE_resume.pdf" download="/SOLTANI.ADLANE_resume.pdf">
                   Download CV
                 </a>
               </Button>
